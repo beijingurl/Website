@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Dog Bentley</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+</head class="banner">
+<body>
+<header>
+<h1>About Me</h1>
+</header>
+
+<nav>
+<ul class="nav">
+<li class="nav"><a href="home.html">Home</a></li>
+<li class="nav"><a href="about.html">About Me</a></li>
+<li class="nav"><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<main>
+<section>
+<img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/12745719_10153468919738226_520969294498469322_n.jpg?oh=72b7dafab4aa34162cca1368ed62927b&oe=57C94CD5" alt=Li-Ming's Profile Picture" style="width:304px;">
+<p>Hello! My name is Li-Ming Yang. I'm from Arlington, Virginia. I currently work as a Booz Allen consultant supporting the Drug Enforcement Administration with financial management training. I've been an instructional designer for about six years, but have been in the field of education for over 15 years. I started as an elementary school teacher, and eventually went into consulting. I am now enrolled part-time with George Mason working towards my Certificate in e-Learning.</p>
+<p>As a federal government contractor, I've had a fair amount of exposure to web accessibility. I've found that some agencies like the Department of Veterans Affairs have higher standards than others. I've had to ensure our course materials, including web-based trainings, PowerPoint slides, and webinars are 508 compliant. For more complicated questions, I've had the opportunity to work with a 508-compliant specialist within the firm. While I have some experience working with making electronic course materials accessible to those with disabilities, I'm sure I still have much to learn!</p>
+</section>
+
+
+<img src="https://plus.google.com/u/0/_/focus/photos/public/AIbEiAIAAABECP2CneP_mtmXvQEiC3ZjYXJkX3Bob3RvKihmMTRhZmE3MzczNjM1YmVlYzBkMmZhMTJkODdkZWY3MWY2NDQ1MzQwMAHVtBW9P8LpuzCIeF_Ah_qurorv_Q" alt="Bentley with party hat and me dressed like a cat" style="width:100px;">
+<br>
+<i>Bentley, the Party Animal</i>
+<hr>
+
+<dl>
+  <dt><strong>Definition of a Dog:</strong></dt>
+  <dd>A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice. It is widely kept as a pet or for work or field sports.</dd>
+</dl>
+
+<h4><em>Adopt a dog: It will change your life. For the better.</em></h4>
+
+<footer>
+<p><sub><em>Developed by Li-Ming Yang for EDIT 526 on June 19, 2016</em></sub></p>
+</footer>
+
+</body>
+</html>
